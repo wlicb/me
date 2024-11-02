@@ -3,7 +3,7 @@ title: "Policidemic"
 excerpt: "a Serious Game to Promote Citizen’s Policy Understanding during a Public Health Crisis
 <br/><img src='/images/500x300.png'>
 <br/><img src='/images/500x300.png'>"
-papersurl: 'http://wlicb.github.io/me/files/Final_Report.pdf'
+paperurl: 'http://wlicb.github.io/me/files/Final_Report.pdf'
 slidesurl: 'http://wlicb.github.io/me/files/FYP_Defense.pdf'
 demourl: 'https://drive.google.com/file/d/1Ds4KbnsafacixHtsie_qDNWykAkBQtgv/view?usp=sharing'
 collection: portfolio
