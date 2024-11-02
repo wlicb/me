@@ -17,9 +17,9 @@ I am actively seeking Ph.D. opportunities in Human Computer Interaction and Comp
 ## Education
 🎓 **M.S. in Computer Science**
 
-<span style="color: gray;">  2023 ~ Present, University of Southern California</span>
+<span style="color: gray;">&nbsp;&nbsp;2023 ~ Present, University of Southern California</span>
 
   
 🎓 **B.Eng. in Computer Science**
 
-<span style="color: gray;">  2019 ~ 2023, Hong Kong University of Science and Technology</span>
+<span style="color: gray;">&nbsp;&nbsp;2019 ~ 2023, Hong Kong University of Science and Technology</span>
