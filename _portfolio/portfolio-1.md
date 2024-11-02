@@ -5,7 +5,7 @@ excerpt: "a Serious Game to Promote Citizen’s Policy Understanding during a Pu
 <br/><img src='/images/500x300.png'>"
 paperurl: 'http://wlicb.github.io/me/files/Final_Report.pdf'
 slidesurl: 'http://wlicb.github.io/me/files/FYP_Defense.pdf'
-demourl: 'https://drive.google.com/file/d/1Ds4KbnsafacixHtsie_qDNWykAkBQtgv/view?usp=sharing'
+demourl: 'http://wlicb.github.io/me/files/FYP_demo.mp4'
 collection: portfolio
 ---
 
