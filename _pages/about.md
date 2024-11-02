@@ -7,4 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Wenbo, a Master's student in computer science at University of Southern California.
+## About me
+
+I am Wenbo, a Master's student in computer science at University of Southern California. My research interests lie at the intersection of Human Computer Interaction, Computing Education, and Health Informatics, including game-based learning, AI assistance for education and wellbeing, and human AI collaboration.
+
+I am actively seeking Ph.D. opportunities in Human Computer Interaction and Computing Education.
+
+
+## Education
+🎓 **M.S. in Computer Science**
+  2023 ~ Present, University of Southern California
+🎓 **B.Eng. in Computer Science**
+  2019 ~ 2023, Hong Kong University of Science and Technology
