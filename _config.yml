@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wenbo's Site"
+title                    : "Wenbo's Page"
 title_separator          : "-"
 name                     : &name "Wenbo Li"
 description              : &description "personal description"
