@@ -1,6 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Policidemic"
+excerpt: "a Serious Game to Promote Citizen’s Policy Understanding during a Public Health Crisis
+<br/><img src='/images/500x300.png'>
+<br/><img src='/images/500x300.png'>"
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 collection: portfolio
 ---
 
