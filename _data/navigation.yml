@@ -9,5 +9,5 @@ main:
     url: /portfolio/
         
   - title: "CV"
-    url: http://wlicb.github.io/me/files/cv.pdf
+    url: /files/cv.pdf
     
