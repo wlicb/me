@@ -1,6 +1,6 @@
 ---
 title: "VSCode Pet"
-excerpt: "a VSCode Pet Developed for Computer Science Students to Encourage Practicing and ALleviate Stress
+excerpt: "A VSCode Pet Developed for Computer Science Students to Encourage Practicing and ALleviate Stress
 <br/><img src='/me/images/pet-cover.jpg'>"
 demourl: 'http://wlicb.github.io/me/files/pet_demo.mp4'
 collection: portfolio
@@ -8,7 +8,22 @@ collection: portfolio
 
 **Supervised by Prof. Shuyin Jiao @ NC State**
 
-We Designed and developed Policidemic, a serious game that simulates policy-making during the COVID-19 epidemic, with the aim of promoting players’ policy understanding and alleviating mental health and policy compliance issues. The game was developed with Unity / C#. Evaluation of the game demonstrated that it was able to improve citizens’ understanding of the rationale behind public health policies, and address the related mental health and compliance problems.
+We are developing a virtual pet game as a VS Code extension to encourage students to practice coding while alleviating their stress.
 
-<img src='/me/images/policidemic.png'>
+We adopt the comforting nature of the pet and the interactions such as feed and play with the pet as a therapy to student's mental health problem. We adopt level up scheme to encourage students to practice programming with reward based on the amount of code written by students.
 
+<img src='/me/images/demo1.png'>
+<figcaption>Basic Display of the Pet</figcaption>
+
+<img src='/me/images/demo3.png'>
+<figcaption>List of Interactions Available</figcaption>
+
+<img src='/me/images/demo4.png'>
+<figcaption>Sample Interaction: Feed</figcaption>
+
+We integrate Large Language Model to deliver support to students and provide comfort and encouragement.
+
+<img src='/me/images/demo2.png'>
+<figcaption>Response to Student Messages</figcaption>
+<img src='/me/images/demo5.png'>
+<figcaption>Provide Proactive Support and Feedback to Students</figcaption>
