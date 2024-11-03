@@ -2,7 +2,6 @@
 title: "VSCode Pet"
 excerpt: "A VSCode Pet Developed for Computer Science Students to Encourage Practicing and ALleviate Stress
 <br/><img src='/me/images/pet-cover.jpg'>"
-demourl: 'http://wlicb.github.io/me/files/pet_demo.mp4'
 collection: portfolio
 ---
 
