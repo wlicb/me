@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png"
   name             : "Wenbo Li"
   pronouns         : # example: "she/her"  
-  bio              : "Master's Student in Computer Science"
-  location         : "Los Angeles, California"
-  employer         : "University of Southern California"
+  bio              : "PhD Student in Computer Science"
+  location         : "Raleigh, North Carolina"
+  employer         : "North Carolina State University"
   uri              : # URL
-  email            : "wli28181@usc.edu" 
+  email            : "wli55@ncsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : https://scholar.google.com/citations?user=xI3mVjUAAAAJ&hl=en
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/0009-0005-4476-0188
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
