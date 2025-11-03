@@ -2,7 +2,7 @@
 title: "LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants?"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-09-01-llm-agent-meets-agentic-ai
+permalink: /publication/2025-09-25-llm-agent-meets-agentic-ai
 excerpt: 'This paper explores whether LLM agents can simulate customers to evaluate agentic-AI-based shopping assistants.'
 date: 2025-09-25
 venue: 'arXiv preprint'
