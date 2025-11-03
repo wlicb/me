@@ -5,16 +5,12 @@
 # prevent it from being included in the site.
 
 main:
-        
-  - title: "CV"
-    url: /cv.pdf
-    
-publication:
 
   - title: "Publication"
     url: /publication
 
-Teaching: 
-
   - title: "Teaching"
     url: /teaching
+    
+  - title: "CV"
+    url: /cv.pdf
