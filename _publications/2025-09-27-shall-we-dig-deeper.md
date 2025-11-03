@@ -10,3 +10,4 @@ slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2509.23327'
 citation: 'Zhang, Yuanhao, et al. (2025). "Shall We Dig Deeper?: Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions." <i>arXiv preprint arXiv:2509.23327</i>.'
 ---
+In submission to CHI '26
