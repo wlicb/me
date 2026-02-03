@@ -10,4 +10,4 @@ slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2506.05606'
 ---
 
-In submission to NeurIPS workshops
+In submission to ACL '26
